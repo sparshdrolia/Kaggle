@@ -22,6 +22,7 @@ train_data.head()
 # In[64]:
 
 
+
 test_data = pd.read_csv("Desktop/test.csv")
 test_data.head()
 
